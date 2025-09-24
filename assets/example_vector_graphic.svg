@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="323" height="139" viewBox="0 0 323 139">
+  <path fill="silver" opacity=".2" d="M17 17h112v112H17z"/>
+  <path fill="#fff" d="M10 10h112v112H10z"/>
+  <path fill="none" stroke="#000" d="M10 10h112v112H10V10zM10 35h112M10 73h112" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" font-weight="bold" x="235.5" y="203.5" transform="translate(-174 -174)">A</text>
+  <text font-family="Arial" font-size="13" x="189" y="226.5" transform="translate(-174 -174)">-attr1: int</text>
+  <text font-family="Arial" font-size="13" x="189" y="241.5" transform="translate(-174 -174)">+attr2: string</text>
+  <text font-family="Arial" font-size="13" x="189" y="264.5" transform="translate(-174 -174)">+meth1(p1: int)</text>
+  <path fill="none" stroke="#000" d="M15 90.5h88" stroke-miterlimit="10"/>
+  <path fill="silver" opacity=".2" d="M217 17h103v119H217z"/>
+  <path fill="#fff" d="M210 10h103v119H210z"/>
+  <path fill="none" stroke="#000" d="M210 10h103v119H210V10zM210 35h103M210 45h103" stroke-miterlimit="10"/>
+  <text font-family="Arial" font-size="13" font-weight="bold" x="431" y="203.5" transform="translate(-174 -174)">B</text>
+  <text font-family="Arial" font-size="13" x="389" y="236.5" transform="translate(-174 -174)">-meth2()</text>
+  <path fill="none" stroke="#000" d="M123 67l86 1" stroke-miterlimit="10"/>
+  <path d="M133.21 62.909L123 67l10.113 4.327 11.886-4.071"/>
+  <path fill="none" stroke="#000" d="M133.21 62.909L123 67l10.113 4.327 11.886-4.071-11.788-4.347" stroke-miterlimit="10"/>
+  <g>
+    <text font-family="Arial" font-size="13" x="307" y="260" transform="translate(-174 -174)">0..1</text>
+  </g>
+</svg>
