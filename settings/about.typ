@@ -7,7 +7,7 @@
 #let autor = [Noah Zepner]
 #let datum = [#datetime.today().display("[day].[month].[year]")]
 #let erstprüfer = [Prof. Dr. Robert Manzke]
-#let zweitprüfer = [Dr. Martin Toepfer]
+#let zweitprüfer = [Dr.-Ing. Martin Toepfer]
 
 #set document(
   title: title,
