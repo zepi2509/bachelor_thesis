@@ -8,7 +8,7 @@
 
 #let settings(doc) = {
   set page( header: context [
-    #emph[#hydra(1) #h(1fr) #hydra(2)]
+    #emph[#hydra()]
   ])
 
   set page( footer: context [
@@ -54,7 +54,9 @@
     pagebreak()
     set text(size: 21.62pt)
     set align(center)
-    smallcaps(it)
+    v(1.5em)
+    it
+    v(-1.2em)
   }
 
   show heading.where(level: 2): it => {
@@ -80,6 +82,12 @@
   show heading.where(level: 6): it => {
     set text(12pt)
     it.body
+  }
+
+  show heading: it => {
+    v(1.5em)
+    it
+    v(1.2em)
   }
 
   set par(

@@ -50,7 +50,7 @@
 
   // content
   #include "paratext/bibliography.typ"
-  #include "paratext/appendices.typ"
+  #include "paratext/appendix.typ"
 ]
 
 

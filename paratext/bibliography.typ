@@ -1,5 +1,6 @@
 #bibliography(
   "../references.bib",
   title: "Literaturverzeichnis",
-  full: true,
+  style: "ieee",
+  full: true
 )
