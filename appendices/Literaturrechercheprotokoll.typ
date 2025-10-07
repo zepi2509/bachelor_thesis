@@ -2,7 +2,7 @@
 #let date    = datetime(day: 30, month: 9, year: 2025).display("[day].[month].[year]")
 #set par(first-line-indent: 0em)
 
-= Rechercheprotokoll <app_Literaturrechercheprotokoll>
+= Rechercheprotokoll
 #[
   #set align(center)
   #v(0.5em)

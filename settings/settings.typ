@@ -54,9 +54,7 @@
     pagebreak()
     set text(size: 21.62pt)
     set align(center)
-    v(1.5em)
     it
-    v(-1.2em)
   }
 
   show heading.where(level: 2): it => {
@@ -85,9 +83,8 @@
   }
 
   show heading: it => {
-    v(1.5em)
     it
-    v(1.2em)
+    v(1em)
   }
 
   set par(
@@ -101,9 +98,20 @@
     ),
   )
 
+  show par: it => {
+    it
+    v(1em)
+  }
+
   set math.equation(
     numbering: "1."
   )
+
+  show figure: it => {
+    v(1.5em)
+    it
+    v(1.5em)
+  }
 
   abbr.config(style: it => it)
 

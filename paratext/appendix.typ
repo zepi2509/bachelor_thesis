@@ -10,3 +10,7 @@
 #pdf.embed(
   "/appendices/Literaturrechercheprotokoll.pdf"
  )<app_Literaturrechercheprotokoll>
+
+#pdf.embed(
+  "/appendices/Lizenzen.pdf"
+ )<app_Lizenzen>
