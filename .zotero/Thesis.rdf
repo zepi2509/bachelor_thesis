@@ -1,0 +1,2050 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <rdf:Description rdf:about="http://arxiv.org/abs/2410.17619">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merilehto</foaf:surname>
+                        <foaf:givenName>Juhani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_223"/>
+        <dcterms:isReferencedBy rdf:resource="#item_238"/>
+        <dcterms:isReferencedBy rdf:resource="#item_240"/>
+        <dcterms:isReferencedBy rdf:resource="#item_244"/>
+        <link:link rdf:resource="#item_225"/>
+        <link:link rdf:resource="#item_224"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computational Engineering, Finance, and Science</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computational Engineering, Finance, and Science (cs.CE)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FOS: Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>From PDFs to Structured Data: Utilizing LLM Analysis in Sports Database Management [Preprint]</dc:title>
+        <dcterms:abstract>This study investigates the effectiveness of Large Language Models (LLMs) in processing semi-structured data from PDF documents into structured formats, specifically examining their application in updating the Finnish Sports Clubs Database. Through action research methodology, we developed and evaluated an AI-assisted approach utilizing OpenAI's GPT-4 and Anthropic's Claude 3 Opus models to process data from 72 sports federation membership reports. The system achieved a 90% success rate in automated processing, successfully handling 65 of 72 files without errors and converting over 7,900 rows of data. While the initial development time was comparable to traditional manual processing (three months), the implemented system shows potential for reducing future processing time by approximately 90%. Key challenges included handling multilingual content, processing multi-page datasets, and managing extraneous information. The findings suggest that while LLMs demonstrate significant potential for automating semi-structured data processing tasks, optimal results are achieved through a hybrid approach combining AI automation with selective human oversight. This research contributes to the growing body of literature on practical LLM applications in organizational data management and provides insights into the transformation of traditional data processing workflows.</dcterms:abstract>
+        <dc:date>2024-10-31</dc:date>
+        <z:shortTitle>From PDFs to Structured Data</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2410.17619</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:19:18</dcterms:dateSubmitted>
+        <dc:description>arXiv:2410.17619 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2410.17619</dc:identifier>
+        <prism:number>arXiv:2410.17619</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_223">
+        <rdf:value>Comment: 11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_238">
+        <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
+11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_240">
+        <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
+11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_244">
+        <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
+11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_225">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/225/Merilehto - 2024 - From PDFs to Structured Data Utilizing LLM Analysis in Sports Database Management.pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2410.17619v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:19:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_224">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/224/2410.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2410.17619</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:19:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2308.03107">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peng</foaf:surname>
+                        <foaf:givenName>Ruoling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Kang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Po</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yuan</foaf:surname>
+                        <foaf:givenName>Zhipeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Shunbao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_228"/>
+        <link:link rdf:resource="#item_227"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FOS: Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructured Data [Preprint]</dc:title>
+        <dcterms:abstract>Pest identification is a crucial aspect of pest control in agriculture. However, most farmers are not capable of accurately identifying pests in the field, and there is a limited number of structured data sources available for rapid querying. In this work, we explored using domain-agnostic general pre-trained large language model(LLM) to extract structured data from agricultural documents with minimal or no human intervention. We propose a methodology that involves text retrieval and filtering using embedding-based retrieval, followed by LLM question-answering to automatically extract entities and attributes from the documents, and transform them into structured data. In comparison to existing methods, our approach achieves consistently better accuracy in the benchmark while maintaining efficiency.</dcterms:abstract>
+        <dc:date>2023-08-06</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2308.03107</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:21:48</dcterms:dateSubmitted>
+        <dc:description>arXiv:2308.03107 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2308.03107</dc:identifier>
+        <prism:number>arXiv:2308.03107</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_228">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/228/Peng et al. - 2023 - Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructure.pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2308.03107v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:21:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_227">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/227/2308.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2308.03107</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:21:49</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://opus.campus02.at/1155">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.58023/1155</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haas</foaf:surname>
+                        <foaf:givenName>Christopher</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_232"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>658 Allgemeines Management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Technische Integration großer Sprachmodelle in Unternehmen: Entwicklung eines Frameworks zur technischen Vorbereitung von Unternehmen auf die Nutzung von Sprachmodellen</dc:title>
+        <dcterms:abstract>The increasing adoption of Large Language Models (LLMs) in corporate environments offers new opportunities for automating knowledge retrieval, content generation, and decision support. At the sametime, their implementation imposes significant technical requirements on existing IT infrastructures and data architectures. This study develops a structured framework to assist companies in the technical preparation for LLM integration.The research focuses on the key technical requirements that organizations must meet to effective-lyintegrate LLMs into specific tasks within their business processes. A particular emphasis is placed onanalyzing internal corporate data formats and structures, as well as the necessary preprocessing steps to ensure LLM compatibility. Additionally, best practices for data archiving and provisioning are identified.Furthermore, a comparative analysis of on-premises and cloud-based hosting solutions, as well as selfhosted and externally hosted LLMs, is conducted, with scalability and security serving as the primaryevaluation criteria. Another focal point of the study is Retrieval-Augmented Generation (RAG) as amethod to enhance LLM performance through the utilization of company-specific knowledge bases.This study follows the Design Science Research methodology and combines an extensive literaturereview with semi-structured expert interviews, which primarily serve to evaluate and refine the developed framework. The evaluation assesses its applicability across different industries and its potential to support IT departments and decision-makers in the strategic implementation of LLMs.The findings of this study aim to provide practical recommendations for the technical implementa-tionof LLMs in businesses. They address both infrastructural and data-specific requirements and offer awell-founded decision-making basis for the introduction and utilization of LLMs.</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Technische Integration großer Sprachmodelle in Unternehmen</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://opus.campus02.at/1155</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:26:52</dcterms:dateSubmitted>
+        <dc:rights>Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte (Urheberrechtsgesetz)</dc:rights>
+        <dc:description>Artwork Size: 1494 KB, vi, 92 pages
+Medium: application/pdf
+Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:description>
+        <bib:pages>1494 KB, vi, 92 pages</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_232">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/232/Haas - 2025 - Technische Integration großer Sprachmodelle in Unternehmen  Entwicklung eines Frameworks zur techni.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://opus.campus02.at/files/1155/AC17558143.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-16 09:26:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4244-1977-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4244-1977-7</dc:identifier>
+                <dc:title>2008 IEEE Conference on Technologies for Homeland Security</dc:title>
+                <dc:identifier>DOI 10.1109/THS.2008.4534448</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Waltham, MA, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ku</foaf:surname>
+                        <foaf:givenName>Chih Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iriberri</foaf:surname>
+                        <foaf:givenName>Alicia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leroy</foaf:surname>
+                        <foaf:givenName>Gondy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_251"/>
+        <dc:title>Crime Information Extraction from Police and Witness Narrative Reports</dc:title>
+        <dc:date>05/2008</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/4534448/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-29 12:50:16</dcterms:dateSubmitted>
+        <bib:pages>193-198</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2008 IEEE Conference on Technologies for Homeland Security</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_251">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/251/Ku et al. - 2008 - Crime Information Extraction from Police and Witness Narrative Reports.pdf"/>
+        <dc:title>Eingereichte Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1083&amp;context=cgu_fac_pub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-29 12:50:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2076-3417/14/17/7819">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2076-3417"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xing</foaf:surname>
+                        <foaf:givenName>Xintao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Peng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_253"/>
+        <dc:title>Entity Extraction of Key Elements in 110 Police Reports Based on Large Language Models</dc:title>
+        <dcterms:abstract>With the rapid advancement of Internet technology and the increasing volume of police reports, relying solely on extensive human labor and traditional natural language processing methods for key element extraction has become impractical. Applying advanced technologies such as large language models to improve the effectiveness of police report extraction has become an inevitable trend in the field of police data analysis. This study addresses the characteristics of Chinese police reports and the need to extract key elements by employing large language models specific to the public security domain for entity extraction. Several lightweight (6/7b) open-source large language models were tested as base models. To enhance model performance, LoRA fine-tuning was employed, combined with data engineering approaches. A zero-shot data augmentation method based on ChatGPT and prompt engineering techniques tailored for police reports were proposed to further improve model performance. The key police report data from a certain city in 2019 were used as a sample for testing. Compared to the base models, prompt engineering improved the F1 score by approximately 3%, while fine-tuning led to an increase of 10–50% in the F1 score. After fine-tuning and comparing different base models, the Baichuan model demonstrated the best overall performance in extracting key elements from police reports. Using the data augmentation method to double the data size resulted in an additional 4% increase in the F1 score, achieving optimal model performance. Compared to the fine-tuned universal information extraction (UIE) large language model, the police report entity extraction model constructed in this study improved the F1 score for each element by approximately 5%, with a 42% improvement in the F1 score for the “organization” element. Finally, ChatGPT was employed to align the extracted entities, resulting in a high-quality entity extraction outcome.</dcterms:abstract>
+        <dc:date>2024-09-03</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2076-3417/14/17/7819</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-29 12:52:39</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>7819</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2076-3417">
+        <prism:volume>14</prism:volume>
+        <dc:title>Applied Sciences</dc:title>
+        <dc:identifier>DOI 10.3390/app14177819</dc:identifier>
+        <prism:number>17</prism:number>
+        <dcterms:alternative>Applied Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 2076-3417</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_253">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/253/Xing und Chen - 2024 - Entity Extraction of Key Elements in 110 Police Reports Based on Large Language Models.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2076-3417/14/17/7819/pdf?version=1725371730</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-29 12:52:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-60558-099-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>dg.o '08</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-1-60558-099-9</dc:identifier>
+                <dc:title>Proceedings of the 2008 international conference on Digital government research</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Montreal, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Digital Government Society of North America</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ku</foaf:surname>
+                        <foaf:givenName>Chih Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iriberri</foaf:surname>
+                        <foaf:givenName>Alicia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leroy</foaf:surname>
+                        <foaf:givenName>Gondy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Natural language processing and e-Government: crime information extraction from heterogeneous data sources</dc:title>
+        <dcterms:abstract>Much information that could help solve and prevent crimes is never gathered because the reporting methods available to citizens and law enforcement personnel are not optimal. Detectives do not have sufficient time to interview crime victims and witnesses. Moreover, many victims and witnesses are too scared or embarrassed to report incidents. We are developing an interviewing system that will help collect such information. We report here on one component, the crime information extraction module, which uses natural language processing to extract crime information from police reports, newspaper articles, and victims' and witnesses' crime narratives. We tested our approach with two types of document: police and witness narrative reports. Our algorithms extract crime-related information, namely weapons, vehicles, time, people, clothes, and locations. We achieved high precision (96%) and recall (83%) for police narrative reports and comparable precision (93%) but somewhat lower recall (77%) for witness narrative reports. The difference in recall was significant at p &amp;lt; .05. We then used a spell checker to evaluate if this would help with witness narrative processing. We found that both precision (94%) and recall (79%) improved slightly.</dcterms:abstract>
+        <dc:date>Mai 18, 2008</dc:date>
+        <z:shortTitle>Natural language processing and e-Government</z:shortTitle>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <dcterms:dateSubmitted>2025-09-29</dcterms:dateSubmitted>
+        <bib:pages>162–170</bib:pages>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://medrxiv.org/lookup/doi/10.1101/2024.09.02.24312917">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Health Informatics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiest</foaf:surname>
+                        <foaf:givenName>Isabella Catharina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wolf</foaf:surname>
+                        <foaf:givenName>Fabian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leßmann</foaf:surname>
+                        <foaf:givenName>Marie-Elisabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Treeck</foaf:surname>
+                        <foaf:givenName>Marko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferber</foaf:surname>
+                        <foaf:givenName>Dyke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>Jiefu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boehme</foaf:surname>
+                        <foaf:givenName>Heiko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bressem</foaf:surname>
+                        <foaf:givenName>Keno K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ulrich</foaf:surname>
+                        <foaf:givenName>Hannes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ebert</foaf:surname>
+                        <foaf:givenName>Matthias P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kather</foaf:surname>
+                        <foaf:givenName>Jakob Nikolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_256"/>
+        <dc:title>LLM-AIx: An open source pipeline for Information Extraction from unstructured medical text based on privacy preserving Large Language Models [Preprint]</dc:title>
+        <dcterms:abstract>Abstract
+          In clinical science and practice, text data, such as clinical letters or procedure reports, is stored in an unstructured way. This type of data is not a quantifiable resource for any kind of quantitative investigations and any manual review or structured information retrieval is time-consuming and costly. The capabilities of Large Language Models (LLMs) mark a paradigm shift in natural language processing and offer new possibilities for structured Information Extraction (IE) from medical free text. This protocol describes a workflow for LLM based information extraction (LLM-AIx), enabling extraction of predefined entities from unstructured text using privacy preserving LLMs. By converting unstructured clinical text into structured data, LLM-AIx addresses a critical barrier in clinical research and practice, where the efficient extraction of information is essential for improving clinical decision-making, enhancing patient outcomes, and facilitating large-scale data analysis.
+          The protocol consists of four main processing steps: 1) Problem definition and data preparation, 2) data preprocessing, 3) LLM-based IE and 4) output evaluation. LLM-AIx allows integration on local hospital hardware without the need of transferring any patient data to external servers. As example tasks, we applied LLM-AIx for the anonymization of fictitious clinical letters from patients with pulmonary embolism. Additionally, we extracted symptoms and laterality of the pulmonary embolism of these fictitious letters. We demonstrate troubleshooting for potential problems within the pipeline with an IE on a real-world dataset, 100 pathology reports from the Cancer Genome Atlas Program (TCGA), for TNM stage extraction. LLM-AIx can be executed without any programming knowledge via an easy-to-use interface and in no more than a few minutes or hours, depending on the LLM model selected.</dcterms:abstract>
+        <dc:date>2024-09-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>LLM-AIx</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://medrxiv.org/lookup/doi/10.1101/2024.09.02.24312917</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-29 13:01:57</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <dc:identifier>DOI 10.1101/2024.09.02.24312917</dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_256">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/256/Wiest et al. - 2024 - LLM-AIx An open source pipeline for Information Extraction from unstructured medical text based on.pdf"/>
+        <dc:title>Eingereichte Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.medrxiv.org/content/medrxiv/early/2024/09/03/2024.09.02.24312917.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-29 13:02:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.techscience.com/cmc/v83n2/60528">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1546-2226"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Qinglang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chunyao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liao</foaf:surname>
+                        <foaf:givenName>Yong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_258"/>
+        <dc:title>TIPS: Tailored Information Extraction in Public Security Using Domain-Enhanced Large Language Model</dc:title>
+        <dc:date>2025</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>TIPS</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.techscience.com/cmc/v83n2/60528</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 12:15:57</dcterms:dateSubmitted>
+        <bib:pages>2555-2572</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1546-2226">
+        <prism:volume>83</prism:volume>
+        <dc:title>Computers, Materials &amp; Continua</dc:title>
+        <dc:identifier>DOI 10.32604/cmc.2025.060318</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>CMC</dcterms:alternative>
+        <dc:identifier>ISSN 1546-2226</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_258">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/258/Liu et al. - 2025 - TIPS Tailored Information Extraction in Public Security Using Domain-Enhanced Large Language Model.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://cdn.techscience.press/files/cmc/2025/TSP_CMC-83-2/TSP_CMC_60318/TSP_CMC_60318.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 12:16:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://francis-press.com/papers/14562">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:26165775"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Xiaoang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tong</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Hailun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xing</foaf:surname>
+                        <foaf:givenName>Yunfei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_263"/>
+        <dc:title>Entity Recognition Method for Key Information of Police Records Based on Bert-Bilstm-Selfatt-Crf</dc:title>
+        <dc:date>2024</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://francis-press.com/papers/14562</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 12:22:08</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:26165775">
+        <prism:volume>7</prism:volume>
+        <dc:title>Academic Journal of Computing &amp; Information Science</dc:title>
+        <dc:identifier>DOI 10.25236/AJCIS.2024.070112</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>AJCIS</dcterms:alternative>
+        <dc:identifier>ISSN 26165775</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_263">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/263/2024 - Entity Recognition Method for Key Information of Police Records Based on Bert-Bilstm-Selfatt-Crf.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://francis-press.com/uploads/papers/XaTBckeVfHMWxBijpMh5d0ox30m4i7L1AMK0hNsu.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 12:22:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://aclanthology.org/2024.findings-emnlp.560">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Findings of the Association for Computational Linguistics: EMNLP 2024</dc:title>
+                <dc:identifier>DOI 10.18653/v1/2024.findings-emnlp.560</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Miami, Florida, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Association for Computational Linguistics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pai</foaf:surname>
+                        <foaf:givenName>Liu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Wenyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dong</foaf:surname>
+                        <foaf:givenName>Wenjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ai</foaf:surname>
+                        <foaf:givenName>Lin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gong</foaf:surname>
+                        <foaf:givenName>Ziwei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Songfang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zongsheng</foaf:surname>
+                        <foaf:givenName>Li</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoque</foaf:surname>
+                        <foaf:givenName>Ehsan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hirschberg</foaf:surname>
+                        <foaf:givenName>Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Yue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_270"/>
+        <dc:title>A Survey on Open Information Extraction from Rule-based Model to Large Language Model</dc:title>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aclanthology.org/2024.findings-emnlp.560</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 13:38:22</dcterms:dateSubmitted>
+        <bib:pages>9586-9608</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Findings of the Association for Computational Linguistics: EMNLP 2024</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_270">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/270/Pai et al. - 2024 - A Survey on Open Information Extraction from Rule-based Model to Large Language Model.pdf"/>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2208.08690</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 13:38:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0306457324001687">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03064573"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Duantengchuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Kaili</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiong</foaf:surname>
+                        <foaf:givenName>Zhuoran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shi</foaf:surname>
+                        <foaf:givenName>Fobo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Jian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hang</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs</dc:title>
+        <dc:date>09/2024</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Are LLMs good at structured outputs?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0306457324001687</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 13:41:54</dcterms:dateSubmitted>
+        <bib:pages>103809</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03064573">
+        <prism:volume>61</prism:volume>
+        <dc:title>Information Processing &amp; Management</dc:title>
+        <dc:identifier>DOI 10.1016/j.ipm.2024.103809</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>Information Processing &amp; Management</dcterms:alternative>
+        <dc:identifier>ISSN 03064573</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2408.11061">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shorten</foaf:surname>
+                        <foaf:givenName>Connor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pierse</foaf:surname>
+                        <foaf:givenName>Charles</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Thomas Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cardenas</foaf:surname>
+                        <foaf:givenName>Erika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharma</foaf:surname>
+                        <foaf:givenName>Akanksha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trengrove</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Luijt</foaf:surname>
+                        <foaf:givenName>Bob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_274"/>
+        <link:link rdf:resource="#item_291"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FOS: Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computation and Language (cs.CL)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>StructuredRAG: JSON Response Formatting with Large Language Models [Preprint]</dc:title>
+        <dcterms:abstract>The ability of Large Language Models (LLMs) to generate structured outputs, such as JSON, is crucial for their use in Compound AI Systems. However, evaluating and improving this capability remains challenging. In this work, we introduce StructuredRAG, a benchmark of six tasks designed to assess LLMs' proficiency in following response format instructions. We evaluate two state-of-the-art LLMs, Gemini 1.5 Pro and Llama 3 8B-instruct with 4-bit quantization using two distinct prompting strategies. We introduce these prompting strategies as f-String and Follow the Format (FF) prompting. Across 24 experiments, we find an average success rate of 82.55%. We further find a high variance in performance across tasks, models, and prompting strategies with success rates ranging from 0 to 100%. We find that Llama 3 8B-instruct often performs competitively with Gemini 1.5 Pro. We observe that task complexity significantly influences performance, with tasks involving lists or composite object outputs proving more challenging. Our findings highlight the need for further research into improving the reliability and consistency of structured output generation in LLMs. We have open-sourced our experimental code and results at github.com/weaviate/structured-rag.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:shortTitle>StructuredRAG</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2408.11061</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 13:46:59</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+        <dc:description>Version Number: 1</dc:description>
+        <dc:identifier>DOI 10.48550/ARXIV.2408.11061</dc:identifier>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_274">
+        <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
+Preprint. 10 pages, 6 figures</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_291">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/291/Shorten et al. - 2024 - StructuredRAG JSON Response Formatting with Large Language Models [Preprint].pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2408.11061v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-01 08:50:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2505.04016">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Darren Yow-Bang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Zhengyuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mishra</foaf:surname>
+                        <foaf:givenName>Soumya Smruti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Zhichao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teng</foaf:surname>
+                        <foaf:givenName>Yifei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ding</foaf:surname>
+                        <foaf:givenName>Haibo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_290"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FOS: Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computation and Language (cs.CL)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine Learning (cs.LG)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>SLOT: Structuring the Output of Large Language Models [Preprint]</dc:title>
+        <dcterms:abstract>Structured outputs are essential for large language models (LLMs) in critical applications like agents and information extraction. Despite their capabilities, LLMs often generate outputs that deviate from predefined schemas, significantly hampering reliable application development. We present SLOT (Structured LLM Output Transformer), a model-agnostic approach that transforms unstructured LLM outputs into precise structured formats. While existing solutions predominantly rely on constrained decoding techniques or are tightly coupled with specific models, SLOT employs a fine-tuned lightweight language model as a post-processing layer, achieving flexibility across various LLMs and schema specifications. We introduce a systematic pipeline for data curation and synthesis alongside a formal evaluation methodology that quantifies both schema accuracy and content fidelity. Our results demonstrate that fine-tuned Mistral-7B model with constrained decoding achieves near perfect schema accuracy (99.5%) and content similarity (94.0%), outperforming Claude-3.5-Sonnet by substantial margins (+25 and +20 percentage points, respectively). Notably, even compact models like Llama-3.2-1B can match or exceed the structured output capabilities of much larger proprietary models when equipped with SLOT, enabling reliable structured generation in resource-constrained environments.</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:shortTitle>SLOT</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2505.04016</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 13:47:51</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+        <dc:description>Version Number: 1</dc:description>
+        <dc:identifier>DOI 10.48550/ARXIV.2505.04016</dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_290">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/290/Wang et al. - 2025 - SLOT Structuring the Output of Large Language Models [Preprint].pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2505.04016v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-01 08:50:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://arxiv.org/abs/2306.00024">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.48550/ARXIV.2306.00024</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gero</foaf:surname>
+                        <foaf:givenName>Zelalem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Chandan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naumann</foaf:surname>
+                        <foaf:givenName>Tristan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galley</foaf:surname>
+                        <foaf:givenName>Michel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Jianfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poon</foaf:surname>
+                        <foaf:givenName>Hoifung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_289"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FOS: Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computation and Language (cs.CL)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine Learning (cs.LG)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Self-Verification Improves Few-Shot Clinical Information Extraction</dc:title>
+        <dcterms:abstract>Extracting patient information from unstructured text is a critical task in health decision-support and clinical research. Large language models (LLMs) have shown the potential to accelerate clinical curation via few-shot in-context learning, in contrast to supervised learning which requires much more costly human annotations. However, despite drastic advances in modern LLMs such as GPT-4, they still struggle with issues regarding accuracy and interpretability, especially in mission-critical domains such as health. Here, we explore a general mitigation framework using self-verification, which leverages the LLM to provide provenance for its own extraction and check its own outputs. This is made possible by the asymmetry between verification and generation, where the latter is often much easier than the former. Experimental results show that our method consistently improves accuracy for various LLMs in standard clinical information extraction tasks. Additionally, self-verification yields interpretations in the form of a short text span corresponding to each output, which makes it very efficient for human experts to audit the results, paving the way towards trustworthy extraction of clinical information in resource-constrained scenarios. To facilitate future research in this direction, we release our code and prompts.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2306.00024</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 13:52:37</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+        <dc:description>Publisher: arXiv
+Version Number: 1</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_289">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/289/Gero et al. - 2023 - Self-Verification Improves Few-Shot Clinical Information Extraction.pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2306.00024v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-01 08:49:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://aclanthology.org/2024.naacl-industry.19/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)</dc:title>
+                <dc:identifier>DOI 10.18653/v1/2024.naacl-industry.19</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Mexico City, Mexico</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Association for Computational Linguistics</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ayala</foaf:surname>
+                        <foaf:givenName>Orlando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bechard</foaf:surname>
+                        <foaf:givenName>Patrice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davani</foaf:surname>
+                        <foaf:givenName>Aida</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sil</foaf:surname>
+                        <foaf:givenName>Avi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kumar</foaf:surname>
+                        <foaf:givenName>Anoop</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_216"/>
+        <link:link rdf:resource="#item_283"/>
+        <link:link rdf:resource="#item_217"/>
+        <link:link rdf:resource="#item_218"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computation and Language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Information Retrieval</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Reducing hallucination in structured outputs via Retrieval-Augmented Generation</dc:title>
+        <dcterms:abstract>A current limitation of Generative AI (GenAI) is its propensity to hallucinate. While Large Language Models (LLM) have taken the world by storm, without eliminating or at least reducing hallucination, real-world GenAI systems will likely continue to face challenges in user adoption. In the process of deploying an enterprise application that produces workflows from natural language requirements, we devised a system leveraging Retrieval-Augmented Generation (RAG) to improve the quality of the structured output that represents such workflows. Thanks to our implementation of RAG, our proposed system significantly reduces hallucination and allows the generalization of our LLM to out-of-domain settings. In addition, we show that using a small, well-trained retriever can reduce the size of the accompanying LLM at no loss in performance, thereby making deployments of LLM-based systems less resource-intensive.</dcterms:abstract>
+        <dc:date>2024-06</dc:date>
+        <z:libraryCatalog>ACLWeb</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aclanthology.org/2024.naacl-industry.19/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 14:05:02</dcterms:dateSubmitted>
+        <bib:pages>228–238</bib:pages>
+        <bib:presentedAt>
+           <bib:Conference><dc:title>NAACL-HLT 2024</dc:title></bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_216">
+        <rdf:value>Comment: To be presented at NAACL 2024. 11 pages and 4 figures</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_283">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/283/Ayala and Bechard - 2024 - Reducing hallucination in structured outputs via Retrieval-Augmented Generation.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aclanthology.org/2024.naacl-industry.19.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 14:05:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_217">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/217/Béchard und Ayala - 2024 - Reducing hallucination in structured outputs via Retrieval-Augmented Generation.pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2404.08189v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-12 12:53:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_218">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/218/2404.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2404.08189</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-12 12:53:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2407.12821">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Zelong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Shuyuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mei</foaf:surname>
+                        <foaf:givenName>Kai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hua</foaf:surname>
+                        <foaf:givenName>Wenyue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rama</foaf:surname>
+                        <foaf:givenName>Balaji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raheja</foaf:surname>
+                        <foaf:givenName>Om</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhu</foaf:surname>
+                        <foaf:givenName>He</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Yongfeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_285"/>
+        <link:link rdf:resource="#item_288"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>FOS: Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computation and Language (cs.CL)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine Learning (cs.LG)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>AutoFlow: Automated Workflow Generation for Large Language Model Agents [Preprint]</dc:title>
+        <dcterms:abstract>Recent advancements in Large Language Models (LLMs) have shown significant progress in understanding complex natural language. One important application of LLM is LLM-based AI Agent, which leverages the ability of LLM as well as external tools for complex-task solving. To make sure LLM Agents follow an effective and reliable procedure to solve the given task, manually designed workflows are usually used to guide the working mechanism of agents. However, manually designing the workflows requires considerable efforts and domain knowledge, making it difficult to develop and deploy agents on massive scales. To address these issues, we propose AutoFlow, a framework designed to automatically generate workflows for agents to solve complex tasks. AutoFlow takes natural language program as the format of agent workflow and employs a workflow optimization procedure to iteratively optimize the workflow quality. Besides, this work offers two workflow generation methods: fine-tuning-based and in-context-based methods, making the AutoFlow framework applicable to both open-source and closed-source LLMs. Experimental results show that our framework can produce robust and reliable agent workflows. We believe that the automatic generation and interpretation of workflows in natural language represent a promising paradigm for solving complex tasks, particularly with the rapid development of LLMs. The source code of this work is available at https://github.com/agiresearch/AutoFlow.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:shortTitle>AutoFlow</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2407.12821</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 14:09:01</dcterms:dateSubmitted>
+        <dc:rights>arXiv.org perpetual, non-exclusive license</dc:rights>
+        <dc:description>Version Number: 1</dc:description>
+        <dc:identifier>DOI 10.48550/ARXIV.2407.12821</dc:identifier>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_285">
+        <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
+Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_288">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/288/Li et al. - 2024 - AutoFlow Automated Workflow Generation for Large Language Model Agents [Preprint].pdf"/>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2407.12821v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-01 08:47:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/10.1007/s44336-024-00009-2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:3005-060X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Xinyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Sai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeng</foaf:surname>
+                        <foaf:givenName>Siqi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_287"/>
+        <dc:title>A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges</dc:title>
+        <dcterms:abstract>Abstract
+            The pursuit of more intelligent and credible autonomous systems, akin to human society, has been a long-standing endeavor for humans. Leveraging the exceptional reasoning and planning capabilities of large language models (LLMs), LLM-based agents have been proposed and have achieved remarkable success across a wide array of tasks. Notably, LLM-based multi-agent systems (MAS) are considered a promising pathway towards realizing general artificial intelligence that is equivalent to or surpasses human-level intelligence. In this paper, we present a comprehensive survey of these studies, offering a systematic review of LLM-based MAS. Adhering to the workflow of LLM-based multi-agent systems, we synthesize a general structure encompassing five key components: profile, perception, self-action, mutual interaction, and evolution. This unified framework encapsulates much of the previous work in the field. Furthermore, we illuminate the extensive applications of LLM-based MAS in two principal areas: problem-solving and world simulation. Finally, we discuss in detail several contemporary challenges and provide insights into potential future directions in this domain.</dcterms:abstract>
+        <dc:date>2024-10-08</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A survey on LLM-based multi-agent systems</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/s44336-024-00009-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 14:14:56</dcterms:dateSubmitted>
+        <bib:pages>9</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:3005-060X">
+        <prism:volume>1</prism:volume>
+        <dc:title>Vicinagearth</dc:title>
+        <dc:identifier>DOI 10.1007/s44336-024-00009-2</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Vicinagearth</dcterms:alternative>
+        <dc:identifier>ISSN 3005-060X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_287">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/287/Li et al. - 2024 - A survey on LLM-based multi-agent systems workflow, infrastructure, and challenges.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-09-30 14:14:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>Advances in Neural Information Processing Systems</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Curran Associates, Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaswani</foaf:surname>
+                        <foaf:givenName>Ashish</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shazeer</foaf:surname>
+                        <foaf:givenName>Noam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parmar</foaf:surname>
+                        <foaf:givenName>Niki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uszkoreit</foaf:surname>
+                        <foaf:givenName>Jakob</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenName>Llion</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gomez</foaf:surname>
+                        <foaf:givenName>Aidan N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaiser</foaf:surname>
+                        <foaf:givenName>Ł ukasz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Polosukhin</foaf:surname>
+                        <foaf:givenName>Illia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_295"/>
+        <dc:title>Attention is All you Need</dc:title>
+        <dcterms:abstract>The dominant sequence transduction models are based on complex recurrent orconvolutional neural networks in an encoder and decoder configuration. The best performing such models also connect the encoder and decoder through an attentionm echanisms.  We propose a novel, simple network architecture based solely onan attention mechanism, dispensing with recurrence and convolutions entirely.Experiments on two machine translation tasks show these models to be superiorin quality while being more parallelizable and requiring significantly less timeto train. Our single model with 165 million parameters, achieves 27.5 BLEU onEnglish-to-German translation, improving over the existing best ensemble result by over 1 BLEU. On English-to-French translation, we outperform the previoussingle state-of-the-art with model by 0.7 BLEU, achieving a BLEU score of 41.1.</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <z:libraryCatalog>Neural Information Processing Systems</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 10:54:01</dcterms:dateSubmitted>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_295">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/295/Vaswani et al. - 2017 - Attention is All you Need.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 10:54:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ibm.com/de-de/think/topics/large-language-models">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+            <z:Blog>
+                <dc:title>Was sind große Sprachmodelle (Large Language Models, LLMs)?</dc:title>
+            </z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_300"/>
+        <dc:title>Was sind Large Language Models (LLMs)? | IBM</dc:title>
+        <dcterms:abstract>Large Language Models sind KI-Systeme, die in der Lage sind, menschliche Sprache zu verstehen und zu generieren, indem sie große Mengen von Textdaten verarbeiten.</dcterms:abstract>
+        <dc:date>2025-06-12T00:00:00.000</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Was sind Large Language Models (LLMs)?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ibm.com/de-de/think/topics/large-language-models</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 11:01:17</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_300">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/300/large-language-models.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ibm.com/de-de/think/topics/large-language-models</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 11:02:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.iese.fraunhofer.de/blog/wie-funktionieren-llms/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Fraunhofer IESE</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelbert</foaf:surname>
+                        <foaf:givenName>Dr Julien Siebert, Patricia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_302"/>
+        <dc:title>Wie funktionieren LLMs? Ein Blick ins Innere großer Sprachmodelle - Blog des Fraunhofer IESE</dc:title>
+        <dcterms:abstract>Woraus bestehen große Sprachmodelle (Large Language Models)? KI-Experten und Expertinnen erklären die Funktionsweise von LLMs.</dcterms:abstract>
+        <dc:date>2024-06-17T07:15:06+00:00</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Wie funktionieren LLMs?</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.iese.fraunhofer.de/blog/wie-funktionieren-llms/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 11:03:07</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_302">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/302/wie-funktionieren-llms.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.iese.fraunhofer.de/blog/wie-funktionieren-llms/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 11:03:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://developers.google.com/machine-learning/resources/intro-llms">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Google for Developers</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_304"/>
+        <dc:title>Introduction to Large Language Models | Machine Learning</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://developers.google.com/machine-learning/resources/intro-llms</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 12:31:57</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_304">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/304/intro-llms.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://developers.google.com/machine-learning/resources/intro-llms</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-02 12:32:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://huggingface.co/blog/mlabonne/decoding-strategies">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_306"/>
+        <dc:title>Decoding Strategies in Large Language Models</dc:title>
+        <dcterms:abstract>A Blog post by Maxime Labonne on Hugging Face</dcterms:abstract>
+        <dc:date>2025-09-07</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://huggingface.co/blog/mlabonne/decoding-strategies</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-04 08:26:48</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_306">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/306/decoding-strategies.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://huggingface.co/blog/mlabonne/decoding-strategies</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-04 08:27:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dl.acm.org/doi/10.1145/3744746">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2157-6904,%202157-6912"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naveed</foaf:surname>
+                        <foaf:givenName>Humza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khan</foaf:surname>
+                        <foaf:givenName>Asad Ullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qiu</foaf:surname>
+                        <foaf:givenName>Shi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saqib</foaf:surname>
+                        <foaf:givenName>Muhammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anwar</foaf:surname>
+                        <foaf:givenName>Saeed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Usman</foaf:surname>
+                        <foaf:givenName>Muhammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akhtar</foaf:surname>
+                        <foaf:givenName>Naveed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barnes</foaf:surname>
+                        <foaf:givenName>Nick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mian</foaf:surname>
+                        <foaf:givenName>Ajmal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Comprehensive Overview of Large Language Models</dc:title>
+        <dcterms:abstract>Large Language Models (LLMs) have recently demonstrated remarkable capabilities in natural language processing tasks and beyond. This success of LLMs has led to a large influx of research contributions in this direction. These works encompass diverse topics such as architectural innovations, better training strategies, context length improvements, fine-tuning, multimodal LLMs, robotics, datasets, benchmarking, efficiency, and more. With the rapid development of techniques and regular breakthroughs in LLM research, it has become considerably challenging to perceive the bigger picture of the advances in this direction. Considering the rapidly emerging plethora of literature on LLMs, it is imperative that the research community is able to benefit from a concise yet comprehensive overview of the recent developments in this field. This article provides an overview of the literature on a broad range of LLM-related concepts. Our self-contained comprehensive overview of LLMs discusses relevant background concepts along with covering the advanced topics at the frontier of research in LLMs. This review article is intended to provide not only a systematic survey but also a quick, comprehensive reference for the researchers and practitioners to draw insights from extensive, informative summaries of the existing works to advance the LLM research.</dcterms:abstract>
+        <dc:date>2025-10-31</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dl.acm.org/doi/10.1145/3744746</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-04 12:58:48</dcterms:dateSubmitted>
+        <bib:pages>1-72</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2157-6904,%202157-6912">
+        <prism:volume>16</prism:volume>
+        <dc:title>ACM Transactions on Intelligent Systems and Technology</dc:title>
+        <dc:identifier>DOI 10.1145/3744746</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>ACM Trans. Intell. Syst. Technol.</dcterms:alternative>
+        <dc:identifier>ISSN 2157-6904, 2157-6912</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>Advances in neural information processing systems</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Curran Associates, Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez</foaf:surname>
+                        <foaf:givenName>Ethan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piktus</foaf:surname>
+                        <foaf:givenName>Aleksandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petroni</foaf:surname>
+                        <foaf:givenName>Fabio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karpukhin</foaf:surname>
+                        <foaf:givenName>Vladimir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goyal</foaf:surname>
+                        <foaf:givenName>Naman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Küttler</foaf:surname>
+                        <foaf:givenName>Heinrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yih</foaf:surname>
+                        <foaf:givenName>Wen-tau</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rocktäschel</foaf:surname>
+                        <foaf:givenName>Tim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riedel</foaf:surname>
+                        <foaf:givenName>Sebastian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kiela</foaf:surname>
+                        <foaf:givenName>Douwe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larochelle</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ranzato</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hadsell</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balcan</foaf:surname>
+                        <foaf:givenName>M.F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_310"/>
+        <dc:title>Retrieval-augmented generation for knowledge-intensive NLP tasks</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: NEURIPS2020_6b493230</dc:description>
+        <bib:pages>9459–9474</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_310">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/310/Lewis et al. - 2020 - Retrieval-augmented generation for knowledge-intensive NLP tasks.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-06 09:27:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://research.ibm.com/blog/retrieval-augmented-generation-RAG">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>IBM Research</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>What is retrieval-augmented generation (RAG)?</dc:title>
+        <dcterms:abstract>RAG is an AI framework for retrieving facts to ground LLMs on the most accurate information and to give users insight into AI’s decision making process.</dcterms:abstract>
+        <dc:date>2021-02-09</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.ibm.com/blog/retrieval-augmented-generation-RAG</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-06 09:31:45</dcterms:dateSubmitted>
+        <dc:rights>© Copyright IBM Corp. 2021</dc:rights>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Fraunhofer IESE</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelbert</foaf:surname>
+                        <foaf:givenName>Thorsten Honroth, Dr Julien Siebert, Patricia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_313"/>
+        <dc:title>Retrieval Augmented Generation (RAG): Chat mit eigenen Daten</dc:title>
+        <dcterms:abstract>RAG AI: Das KI-Verfahren Retrieval Augmented Generation (RAG) kombiniert Large Language Models (LLM) mit der Suche in Wissensquellen.</dcterms:abstract>
+        <dc:date>2024-05-13T10:23:57+00:00</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Retrieval Augmented Generation (RAG)</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-06 09:35:19</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_313">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/313/retrieval-augmented-generation-rag.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-06 09:35:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_23">
+        <dc:title>Agent</dc:title>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2407.12821"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_15">
+        <dc:title>Domaine</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_17"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/2076-3417/14/17/7819"/>
+        <dcterms:hasPart rdf:resource="https://www.techscience.com/cmc/v83n2/60528"/>
+        <dcterms:hasPart rdf:resource="https://francis-press.com/papers/14562"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_17">
+        <dc:title>ohne llm</dc:title>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4244-1977-7"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-60558-099-9"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_21">
+        <dc:title>few-shot</dc:title>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2306.00024"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_18">
+        <dc:title>Integration</dc:title>
+        <dcterms:hasPart rdf:resource="https://opus.campus02.at/1155"/>
+        <dcterms:hasPart rdf:resource="https://link.springer.com/10.1007/s44336-024-00009-2"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_24">
+        <dc:title>LLMs</dc:title>
+        <dcterms:hasPart rdf:resource="https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"/>
+        <dcterms:hasPart rdf:resource="https://www.ibm.com/de-de/think/topics/large-language-models"/>
+        <dcterms:hasPart rdf:resource="https://www.iese.fraunhofer.de/blog/wie-funktionieren-llms/"/>
+        <dcterms:hasPart rdf:resource="https://developers.google.com/machine-learning/resources/intro-llms"/>
+        <dcterms:hasPart rdf:resource="https://huggingface.co/blog/mlabonne/decoding-strategies"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3744746"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_16">
+        <dc:title>Methodik</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2410.17619"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2308.03107"/>
+        <dcterms:hasPart rdf:resource="http://medrxiv.org/lookup/doi/10.1101/2024.09.02.24312917"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_22">
+        <dc:title>RAG</dc:title>
+        <dcterms:hasPart rdf:resource="https://aclanthology.org/2024.naacl-industry.19/"/>
+        <dcterms:hasPart rdf:resource="https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf"/>
+        <dcterms:hasPart rdf:resource="https://research.ibm.com/blog/retrieval-augmented-generation-RAG"/>
+        <dcterms:hasPart rdf:resource="https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_20">
+        <dc:title>Structured Output</dc:title>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0306457324001687"/>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2408.11061"/>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2505.04016"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_19">
+        <dc:title>Why LLM vor IE</dc:title>
+        <dcterms:hasPart rdf:resource="https://aclanthology.org/2024.findings-emnlp.560"/>
+    </z:Collection>
+</rdf:RDF>
