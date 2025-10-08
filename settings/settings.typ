@@ -22,7 +22,7 @@
 
   set text(
     lang: "de",
-    font: "Helvetica Neue LT Std",
+    font: "Libertinus Serif",
     size: 12pt,
   )
 
@@ -83,6 +83,7 @@
   }
 
   show heading: it => {
+    set text(font: "Inter 28pt", weight: "bold")
     it
     v(1em)
   }
