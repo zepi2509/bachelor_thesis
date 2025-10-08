@@ -103,6 +103,11 @@
     it
     v(1em)
   }
+  
+  show enum: it => {
+    it
+    v(1em)
+  }
 
   set math.equation(
     numbering: "1."
