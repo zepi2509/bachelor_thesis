@@ -23,22 +23,12 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_223"/>
-        <dcterms:isReferencedBy rdf:resource="#item_238"/>
-        <dcterms:isReferencedBy rdf:resource="#item_240"/>
-        <dcterms:isReferencedBy rdf:resource="#item_244"/>
-        <link:link rdf:resource="#item_225"/>
-        <link:link rdf:resource="#item_224"/>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-            <z:AutomaticTag>
-                <rdf:value>Computer Science - Computational Engineering, Finance, and Science</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
+        <dcterms:isReferencedBy rdf:resource="#item_61"/>
+        <dcterms:isReferencedBy rdf:resource="#item_62"/>
+        <dcterms:isReferencedBy rdf:resource="#item_63"/>
+        <dcterms:isReferencedBy rdf:resource="#item_64"/>
+        <link:link rdf:resource="#item_65"/>
+        <link:link rdf:resource="#item_66"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
@@ -47,6 +37,16 @@
         <dc:subject>
             <z:AutomaticTag>
                 <rdf:value>Computational Engineering, Finance, and Science (cs.CE)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computational Engineering, Finance, and Science</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
@@ -69,24 +69,24 @@
         <dc:identifier>DOI 10.48550/arXiv.2410.17619</dc:identifier>
         <prism:number>arXiv:2410.17619</prism:number>
     </rdf:Description>
-    <bib:Memo rdf:about="#item_223">
+    <bib:Memo rdf:about="#item_61">
         <rdf:value>Comment: 11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
     </bib:Memo>
-    <bib:Memo rdf:about="#item_238">
+    <bib:Memo rdf:about="#item_62">
         <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
 11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
     </bib:Memo>
-    <bib:Memo rdf:about="#item_240">
+    <bib:Memo rdf:about="#item_63">
         <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
 11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
     </bib:Memo>
-    <bib:Memo rdf:about="#item_244">
+    <bib:Memo rdf:about="#item_64">
         <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
 11 pages, 1 figure; corrected the corresponding authors e-mail</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_225">
+    <z:Attachment rdf:about="#item_65">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/225/Merilehto - 2024 - From PDFs to Structured Data Utilizing LLM Analysis in Sports Database Management.pdf"/>
+        <rdf:resource rdf:resource="files/65/Merilehto - 2024 - From PDFs to Structured Data Utilizing LLM Analysis in Sports Database Management.pdf"/>
         <dc:title>Preprint PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -97,9 +97,9 @@
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_224">
+    <z:Attachment rdf:about="#item_66">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/224/2410.html"/>
+        <rdf:resource rdf:resource="files/66/2410.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -149,16 +149,16 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_228"/>
-        <link:link rdf:resource="#item_227"/>
+        <link:link rdf:resource="#item_68"/>
+        <link:link rdf:resource="#item_69"/>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
@@ -180,9 +180,9 @@
         <dc:identifier>DOI 10.48550/arXiv.2308.03107</dc:identifier>
         <prism:number>arXiv:2308.03107</prism:number>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_228">
+    <z:Attachment rdf:about="#item_68">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/228/Peng et al. - 2023 - Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructure.pdf"/>
+        <rdf:resource rdf:resource="files/68/Peng et al. - 2023 - Embedding-based Retrieval with LLM for Effective Agriculture Information Extracting from Unstructure.pdf"/>
         <dc:title>Preprint PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -193,9 +193,9 @@
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_227">
+    <z:Attachment rdf:about="#item_69">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/227/2308.html"/>
+        <rdf:resource rdf:resource="files/69/2308.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -223,7 +223,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_232"/>
+        <link:link rdf:resource="#item_71"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>658 Allgemeines Management</rdf:value>
@@ -247,9 +247,9 @@ Medium: application/pdf
 Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:description>
         <bib:pages>1494 KB, vi, 92 pages</bib:pages>
     </bib:Article>
-    <z:Attachment rdf:about="#item_232">
+    <z:Attachment rdf:about="#item_71">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/232/Haas - 2025 - Technische Integration großer Sprachmodelle in Unternehmen  Entwicklung eines Frameworks zur techni.pdf"/>
+        <rdf:resource rdf:resource="files/71/Haas - 2025 - Technische Integration großer Sprachmodelle in Unternehmen  Entwicklung eines Frameworks zur techni.pdf"/>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -301,7 +301,7 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_251"/>
+        <link:link rdf:resource="#item_73"/>
         <dc:title>Crime Information Extraction from Police and Witness Narrative Reports</dc:title>
         <dc:date>05/2008</dc:date>
         <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
@@ -318,9 +318,9 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
             </bib:Conference>
         </bib:presentedAt>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_251">
+    <z:Attachment rdf:about="#item_73">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/251/Ku et al. - 2008 - Crime Information Extraction from Police and Witness Narrative Reports.pdf"/>
+        <rdf:resource rdf:resource="files/73/Ku et al. - 2008 - Crime Information Extraction from Police and Witness Narrative Reports.pdf"/>
         <dc:title>Eingereichte Version</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -350,7 +350,7 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_253"/>
+        <link:link rdf:resource="#item_75"/>
         <dc:title>Entity Extraction of Key Elements in 110 Police Reports Based on Large Language Models</dc:title>
         <dcterms:abstract>With the rapid advancement of Internet technology and the increasing volume of police reports, relying solely on extensive human labor and traditional natural language processing methods for key element extraction has become impractical. Applying advanced technologies such as large language models to improve the effectiveness of police report extraction has become an inevitable trend in the field of police data analysis. This study addresses the characteristics of Chinese police reports and the need to extract key elements by employing large language models specific to the public security domain for entity extraction. Several lightweight (6/7b) open-source large language models were tested as base models. To enhance model performance, LoRA fine-tuning was employed, combined with data engineering approaches. A zero-shot data augmentation method based on ChatGPT and prompt engineering techniques tailored for police reports were proposed to further improve model performance. The key police report data from a certain city in 2019 were used as a sample for testing. Compared to the base models, prompt engineering improved the F1 score by approximately 3%, while fine-tuning led to an increase of 10–50% in the F1 score. After fine-tuning and comparing different base models, the Baichuan model demonstrated the best overall performance in extracting key elements from police reports. Using the data augmentation method to double the data size resulted in an additional 4% increase in the F1 score, achieving optimal model performance. Compared to the fine-tuned universal information extraction (UIE) large language model, the police report entity extraction model constructed in this study improved the F1 score for each element by approximately 5%, with a 42% improvement in the F1 score for the “organization” element. Finally, ChatGPT was employed to align the extracted entities, resulting in a high-quality entity extraction outcome.</dcterms:abstract>
         <dc:date>2024-09-03</dc:date>
@@ -373,9 +373,9 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
         <dcterms:alternative>Applied Sciences</dcterms:alternative>
         <dc:identifier>ISSN 2076-3417</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_253">
+    <z:Attachment rdf:about="#item_75">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/253/Xing und Chen - 2024 - Entity Extraction of Key Elements in 110 Police Reports Based on Large Language Models.pdf"/>
+        <rdf:resource rdf:resource="files/75/Xing und Chen - 2024 - Entity Extraction of Key Elements in 110 Police Reports Based on Large Language Models.pdf"/>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -514,7 +514,7 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_256"/>
+        <link:link rdf:resource="#item_78"/>
         <dc:title>LLM-AIx: An open source pipeline for Information Extraction from unstructured medical text based on privacy preserving Large Language Models [Preprint]</dc:title>
         <dcterms:abstract>Abstract
           In clinical science and practice, text data, such as clinical letters or procedure reports, is stored in an unstructured way. This type of data is not a quantifiable resource for any kind of quantitative investigations and any manual review or structured information retrieval is time-consuming and costly. The capabilities of Large Language Models (LLMs) mark a paradigm shift in natural language processing and offer new possibilities for structured Information Extraction (IE) from medical free text. This protocol describes a workflow for LLM based information extraction (LLM-AIx), enabling extraction of predefined entities from unstructured text using privacy preserving LLMs. By converting unstructured clinical text into structured data, LLM-AIx addresses a critical barrier in clinical research and practice, where the efficient extraction of information is essential for improving clinical decision-making, enhancing patient outcomes, and facilitating large-scale data analysis.
@@ -532,9 +532,9 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
         <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
         <dc:identifier>DOI 10.1101/2024.09.02.24312917</dc:identifier>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_256">
+    <z:Attachment rdf:about="#item_78">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/256/Wiest et al. - 2024 - LLM-AIx An open source pipeline for Information Extraction from unstructured medical text based on.pdf"/>
+        <rdf:resource rdf:resource="files/78/Wiest et al. - 2024 - LLM-AIx An open source pipeline for Information Extraction from unstructured medical text based on.pdf"/>
         <dc:title>Eingereichte Version</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -576,7 +576,7 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_258"/>
+        <link:link rdf:resource="#item_80"/>
         <dc:title>TIPS: Tailored Information Extraction in Public Security Using Domain-Enhanced Large Language Model</dc:title>
         <dc:date>2025</dc:date>
         <z:language>en</z:language>
@@ -598,9 +598,9 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
         <dcterms:alternative>CMC</dcterms:alternative>
         <dc:identifier>ISSN 1546-2226</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_258">
+    <z:Attachment rdf:about="#item_80">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/258/Liu et al. - 2025 - TIPS Tailored Information Extraction in Public Security Using Domain-Enhanced Large Language Model.pdf"/>
+        <rdf:resource rdf:resource="files/80/Liu et al. - 2025 - TIPS Tailored Information Extraction in Public Security Using Domain-Enhanced Large Language Model.pdf"/>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -642,7 +642,7 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_263"/>
+        <link:link rdf:resource="#item_82"/>
         <dc:title>Entity Recognition Method for Key Information of Police Records Based on Bert-Bilstm-Selfatt-Crf</dc:title>
         <dc:date>2024</dc:date>
         <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
@@ -661,9 +661,9 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
         <dcterms:alternative>AJCIS</dcterms:alternative>
         <dc:identifier>ISSN 26165775</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_263">
+    <z:Attachment rdf:about="#item_82">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/263/2024 - Entity Recognition Method for Key Information of Police Records Based on Bert-Bilstm-Selfatt-Crf.pdf"/>
+        <rdf:resource rdf:resource="files/82/2024 - Entity Recognition Method for Key Information of Police Records Based on Bert-Bilstm-Selfatt-Crf.pdf"/>
         <dc:title>Volltext</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -756,7 +756,7 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_270"/>
+        <link:link rdf:resource="#item_84"/>
         <dc:title>A Survey on Open Information Extraction from Rule-based Model to Large Language Model</dc:title>
         <dc:date>2024</dc:date>
         <z:language>en</z:language>
@@ -774,9 +774,9 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
             </bib:Conference>
         </bib:presentedAt>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_270">
+    <z:Attachment rdf:about="#item_84">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/270/Pai et al. - 2024 - A Survey on Open Information Extraction from Rule-based Model to Large Language Model.pdf"/>
+        <rdf:resource rdf:resource="files/84/Pai et al. - 2024 - A Survey on Open Information Extraction from Rule-based Model to Large Language Model.pdf"/>
         <dc:title>Submitted Version</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -914,8 +914,8 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_274"/>
-        <link:link rdf:resource="#item_291"/>
+        <dcterms:isReferencedBy rdf:resource="#item_87"/>
+        <link:link rdf:resource="#item_88"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>FOS: Computer and information sciences</rdf:value>
@@ -941,13 +941,13 @@ Publisher: FH CAMPUS 02 (CAMPUS 02 Fachhochschule der Wirtschaft)</dc:descriptio
         <dc:description>Version Number: 1</dc:description>
         <dc:identifier>DOI 10.48550/ARXIV.2408.11061</dc:identifier>
     </rdf:Description>
-    <bib:Memo rdf:about="#item_274">
+    <bib:Memo rdf:about="#item_87">
         <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
 Preprint. 10 pages, 6 figures</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_291">
+    <z:Attachment rdf:about="#item_88">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/291/Shorten et al. - 2024 - StructuredRAG JSON Response Formatting with Large Language Models [Preprint].pdf"/>
+        <rdf:resource rdf:resource="files/88/Shorten et al. - 2024 - StructuredRAG JSON Response Formatting with Large Language Models [Preprint].pdf"/>
         <dc:title>Preprint PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1003,7 +1003,7 @@ Preprint. 10 pages, 6 figures</rdf:value>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_290"/>
+        <link:link rdf:resource="#item_90"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
@@ -1039,9 +1039,9 @@ Preprint. 10 pages, 6 figures</rdf:value>
         <dc:description>Version Number: 1</dc:description>
         <dc:identifier>DOI 10.48550/ARXIV.2505.04016</dc:identifier>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_290">
+    <z:Attachment rdf:about="#item_90">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/290/Wang et al. - 2025 - SLOT Structuring the Output of Large Language Models [Preprint].pdf"/>
+        <rdf:resource rdf:resource="files/90/Wang et al. - 2025 - SLOT Structuring the Output of Large Language Models [Preprint].pdf"/>
         <dc:title>Preprint PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1105,7 +1105,7 @@ Preprint. 10 pages, 6 figures</rdf:value>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_289"/>
+        <link:link rdf:resource="#item_92"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>FOS: Computer and information sciences</rdf:value>
@@ -1135,9 +1135,9 @@ Preprint. 10 pages, 6 figures</rdf:value>
         <dc:description>Publisher: arXiv
 Version Number: 1</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_289">
+    <z:Attachment rdf:about="#item_92">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/289/Gero et al. - 2023 - Self-Verification Improves Few-Shot Clinical Information Extraction.pdf"/>
+        <rdf:resource rdf:resource="files/92/Gero et al. - 2023 - Self-Verification Improves Few-Shot Clinical Information Extraction.pdf"/>
         <dc:title>Preprint PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1210,10 +1210,10 @@ Version Number: 1</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:editors>
-        <dcterms:isReferencedBy rdf:resource="#item_216"/>
-        <link:link rdf:resource="#item_283"/>
-        <link:link rdf:resource="#item_217"/>
-        <link:link rdf:resource="#item_218"/>
+        <dcterms:isReferencedBy rdf:resource="#item_94"/>
+        <link:link rdf:resource="#item_95"/>
+        <link:link rdf:resource="#item_96"/>
+        <link:link rdf:resource="#item_97"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
@@ -1249,12 +1249,12 @@ Version Number: 1</dc:description>
            <bib:Conference><dc:title>NAACL-HLT 2024</dc:title></bib:Conference>
         </bib:presentedAt>
     </rdf:Description>
-    <bib:Memo rdf:about="#item_216">
+    <bib:Memo rdf:about="#item_94">
         <rdf:value>Comment: To be presented at NAACL 2024. 11 pages and 4 figures</rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_283">
+    <z:Attachment rdf:about="#item_95">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/283/Ayala and Bechard - 2024 - Reducing hallucination in structured outputs via Retrieval-Augmented Generation.pdf"/>
+        <rdf:resource rdf:resource="files/95/Ayala and Bechard - 2024 - Reducing hallucination in structured outputs via Retrieval-Augmented Generation.pdf"/>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1265,9 +1265,9 @@ Version Number: 1</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_217">
+    <z:Attachment rdf:about="#item_96">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/217/Béchard und Ayala - 2024 - Reducing hallucination in structured outputs via Retrieval-Augmented Generation.pdf"/>
+        <rdf:resource rdf:resource="files/96/Béchard und Ayala - 2024 - Reducing hallucination in structured outputs via Retrieval-Augmented Generation.pdf"/>
         <dc:title>Preprint PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1278,9 +1278,9 @@ Version Number: 1</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_218">
+    <z:Attachment rdf:about="#item_97">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/218/2404.html"/>
+        <rdf:resource rdf:resource="files/97/2404.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1290,123 +1290,6 @@ Version Number: 1</dc:description>
         <dcterms:dateSubmitted>2025-09-12 12:53:39</dcterms:dateSubmitted>
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
-    </z:Attachment>
-    <rdf:Description rdf:about="https://arxiv.org/abs/2407.12821">
-        <z:itemType>preprint</z:itemType>
-        <dc:publisher>
-           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Li</foaf:surname>
-                        <foaf:givenName>Zelong</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Xu</foaf:surname>
-                        <foaf:givenName>Shuyuan</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Mei</foaf:surname>
-                        <foaf:givenName>Kai</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Hua</foaf:surname>
-                        <foaf:givenName>Wenyue</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Rama</foaf:surname>
-                        <foaf:givenName>Balaji</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Raheja</foaf:surname>
-                        <foaf:givenName>Om</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Wang</foaf:surname>
-                        <foaf:givenName>Hao</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Zhu</foaf:surname>
-                        <foaf:givenName>He</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Zhang</foaf:surname>
-                        <foaf:givenName>Yongfeng</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_285"/>
-        <link:link rdf:resource="#item_288"/>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Artificial Intelligence (cs.AI)</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>FOS: Computer and information sciences</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Computation and Language (cs.CL)</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Machine Learning (cs.LG)</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:title>AutoFlow: Automated Workflow Generation for Large Language Model Agents [Preprint]</dc:title>
-        <dcterms:abstract>Recent advancements in Large Language Models (LLMs) have shown significant progress in understanding complex natural language. One important application of LLM is LLM-based AI Agent, which leverages the ability of LLM as well as external tools for complex-task solving. To make sure LLM Agents follow an effective and reliable procedure to solve the given task, manually designed workflows are usually used to guide the working mechanism of agents. However, manually designing the workflows requires considerable efforts and domain knowledge, making it difficult to develop and deploy agents on massive scales. To address these issues, we propose AutoFlow, a framework designed to automatically generate workflows for agents to solve complex tasks. AutoFlow takes natural language program as the format of agent workflow and employs a workflow optimization procedure to iteratively optimize the workflow quality. Besides, this work offers two workflow generation methods: fine-tuning-based and in-context-based methods, making the AutoFlow framework applicable to both open-source and closed-source LLMs. Experimental results show that our framework can produce robust and reliable agent workflows. We believe that the automatic generation and interpretation of workflows in natural language represent a promising paradigm for solving complex tasks, particularly with the rapid development of LLMs. The source code of this work is available at https://github.com/agiresearch/AutoFlow.</dcterms:abstract>
-        <dc:date>2024</dc:date>
-        <z:shortTitle>AutoFlow</z:shortTitle>
-        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>https://arxiv.org/abs/2407.12821</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2025-09-30 14:09:01</dcterms:dateSubmitted>
-        <dc:rights>arXiv.org perpetual, non-exclusive license</dc:rights>
-        <dc:description>Version Number: 1</dc:description>
-        <dc:identifier>DOI 10.48550/ARXIV.2407.12821</dc:identifier>
-    </rdf:Description>
-    <bib:Memo rdf:about="#item_285">
-        <rdf:value>&lt;h2&gt;Other&lt;/h2&gt;
-Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value>
-    </bib:Memo>
-    <z:Attachment rdf:about="#item_288">
-        <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/288/Li et al. - 2024 - AutoFlow Automated Workflow Generation for Large Language Model Agents [Preprint].pdf"/>
-        <dc:title>Preprint PDF</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>http://arxiv.org/pdf/2407.12821v1</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2025-10-01 08:47:36</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Article rdf:about="https://link.springer.com/10.1007/s44336-024-00009-2">
         <z:itemType>journalArticle</z:itemType>
@@ -1445,7 +1328,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_287"/>
+        <link:link rdf:resource="#item_102"/>
         <dc:title>A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges</dc:title>
         <dcterms:abstract>Abstract
             The pursuit of more intelligent and credible autonomous systems, akin to human society, has been a long-standing endeavor for humans. Leveraging the exceptional reasoning and planning capabilities of large language models (LLMs), LLM-based agents have been proposed and have achieved remarkable success across a wide array of tasks. Notably, LLM-based multi-agent systems (MAS) are considered a promising pathway towards realizing general artificial intelligence that is equivalent to or surpasses human-level intelligence. In this paper, we present a comprehensive survey of these studies, offering a systematic review of LLM-based MAS. Adhering to the workflow of LLM-based multi-agent systems, we synthesize a general structure encompassing five key components: profile, perception, self-action, mutual interaction, and evolution. This unified framework encapsulates much of the previous work in the field. Furthermore, we illuminate the extensive applications of LLM-based MAS in two principal areas: problem-solving and world simulation. Finally, we discuss in detail several contemporary challenges and provide insights into potential future directions in this domain.</dcterms:abstract>
@@ -1469,9 +1352,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         <dcterms:alternative>Vicinagearth</dcterms:alternative>
         <dc:identifier>ISSN 3005-060X</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_287">
+    <z:Attachment rdf:about="#item_102">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/287/Li et al. - 2024 - A survey on LLM-based multi-agent systems workflow, infrastructure, and challenges.pdf"/>
+        <rdf:resource rdf:resource="files/102/Li et al. - 2024 - A survey on LLM-based multi-agent systems workflow, infrastructure, and challenges.pdf"/>
         <dc:title>Full Text</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1547,7 +1430,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_295"/>
+        <link:link rdf:resource="#item_104"/>
         <dc:title>Attention is All you Need</dc:title>
         <dcterms:abstract>The dominant sequence transduction models are based on complex recurrent orconvolutional neural networks in an encoder and decoder configuration. The best performing such models also connect the encoder and decoder through an attentionm echanisms.  We propose a novel, simple network architecture based solely onan attention mechanism, dispensing with recurrence and convolutions entirely.Experiments on two machine translation tasks show these models to be superiorin quality while being more parallelizable and requiring significantly less timeto train. Our single model with 165 million parameters, achieves 27.5 BLEU onEnglish-to-German translation, improving over the existing best ensemble result by over 1 BLEU. On English-to-French translation, we outperform the previoussingle state-of-the-art with model by 0.7 BLEU, achieving a BLEU score of 41.1.</dcterms:abstract>
         <dc:date>2017</dc:date>
@@ -1559,9 +1442,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         </dc:identifier>
         <dcterms:dateSubmitted>2025-10-02 10:54:01</dcterms:dateSubmitted>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_295">
+    <z:Attachment rdf:about="#item_104">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/295/Vaswani et al. - 2017 - Attention is All you Need.pdf"/>
+        <rdf:resource rdf:resource="files/104/Vaswani et al. - 2017 - Attention is All you Need.pdf"/>
         <dc:title>Full Text PDF</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1579,7 +1462,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
                 <dc:title>Was sind große Sprachmodelle (Large Language Models, LLMs)?</dc:title>
             </z:Blog>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_300"/>
+        <link:link rdf:resource="#item_106"/>
         <dc:title>Was sind Large Language Models (LLMs)? | IBM</dc:title>
         <dcterms:abstract>Large Language Models sind KI-Systeme, die in der Lage sind, menschliche Sprache zu verstehen und zu generieren, indem sie große Mengen von Textdaten verarbeiten.</dcterms:abstract>
         <dc:date>2025-06-12T00:00:00.000</dc:date>
@@ -1592,9 +1475,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         </dc:identifier>
         <dcterms:dateSubmitted>2025-10-02 11:01:17</dcterms:dateSubmitted>
     </bib:Document>
-    <z:Attachment rdf:about="#item_300">
+    <z:Attachment rdf:about="#item_106">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/300/large-language-models.html"/>
+        <rdf:resource rdf:resource="files/106/large-language-models.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1620,7 +1503,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_302"/>
+        <link:link rdf:resource="#item_108"/>
         <dc:title>Wie funktionieren LLMs? Ein Blick ins Innere großer Sprachmodelle - Blog des Fraunhofer IESE</dc:title>
         <dcterms:abstract>Woraus bestehen große Sprachmodelle (Large Language Models)? KI-Experten und Expertinnen erklären die Funktionsweise von LLMs.</dcterms:abstract>
         <dc:date>2024-06-17T07:15:06+00:00</dc:date>
@@ -1633,9 +1516,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         </dc:identifier>
         <dcterms:dateSubmitted>2025-10-02 11:03:07</dcterms:dateSubmitted>
     </bib:Document>
-    <z:Attachment rdf:about="#item_302">
+    <z:Attachment rdf:about="#item_108">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/302/wie-funktionieren-llms.html"/>
+        <rdf:resource rdf:resource="files/108/wie-funktionieren-llms.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1651,8 +1534,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         <dcterms:isPartOf>
            <z:Website><dc:title>Google for Developers</dc:title></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_304"/>
+        <link:link rdf:resource="#item_110"/>
         <dc:title>Introduction to Large Language Models | Machine Learning</dc:title>
+        <dc:date>2025-10-02 12:31:57</dc:date>
         <z:language>en</z:language>
         <dc:identifier>
             <dcterms:URI>
@@ -1661,9 +1545,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         </dc:identifier>
         <dcterms:dateSubmitted>2025-10-02 12:31:57</dcterms:dateSubmitted>
     </bib:Document>
-    <z:Attachment rdf:about="#item_304">
+    <z:Attachment rdf:about="#item_110">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/304/intro-llms.html"/>
+        <rdf:resource rdf:resource="files/110/intro-llms.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1679,7 +1563,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         <dcterms:isPartOf>
            <z:Website></z:Website>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_306"/>
+        <link:link rdf:resource="#item_112"/>
         <dc:title>Decoding Strategies in Large Language Models</dc:title>
         <dcterms:abstract>A Blog post by Maxime Labonne on Hugging Face</dcterms:abstract>
         <dc:date>2025-09-07</dc:date>
@@ -1690,9 +1574,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         </dc:identifier>
         <dcterms:dateSubmitted>2025-10-04 08:26:48</dcterms:dateSubmitted>
     </bib:Document>
-    <z:Attachment rdf:about="#item_306">
+    <z:Attachment rdf:about="#item_112">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/306/decoding-strategies.html"/>
+        <rdf:resource rdf:resource="files/112/decoding-strategies.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1908,7 +1792,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
                 </rdf:li>
             </rdf:Seq>
         </bib:editors>
-        <link:link rdf:resource="#item_310"/>
+        <link:link rdf:resource="#item_115"/>
         <dc:title>Retrieval-augmented generation for knowledge-intensive NLP tasks</dc:title>
         <dc:date>2020</dc:date>
         <dc:identifier>
@@ -1919,9 +1803,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         <dc:description>Citation Key: NEURIPS2020_6b493230</dc:description>
         <bib:pages>9459–9474</bib:pages>
     </rdf:Description>
-    <z:Attachment rdf:about="#item_310">
+    <z:Attachment rdf:about="#item_115">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/310/Lewis et al. - 2020 - Retrieval-augmented generation for knowledge-intensive NLP tasks.pdf"/>
+        <rdf:resource rdf:resource="files/115/Lewis et al. - 2020 - Retrieval-augmented generation for knowledge-intensive NLP tasks.pdf"/>
         <dc:title>Full Text</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1964,7 +1848,7 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_313"/>
+        <link:link rdf:resource="#item_118"/>
         <dc:title>Retrieval Augmented Generation (RAG): Chat mit eigenen Daten</dc:title>
         <dcterms:abstract>RAG AI: Das KI-Verfahren Retrieval Augmented Generation (RAG) kombiniert Large Language Models (LLM) mit der Suche in Wissensquellen.</dcterms:abstract>
         <dc:date>2024-05-13T10:23:57+00:00</dc:date>
@@ -1977,9 +1861,9 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         </dc:identifier>
         <dcterms:dateSubmitted>2025-10-06 09:35:19</dcterms:dateSubmitted>
     </bib:Document>
-    <z:Attachment rdf:about="#item_313">
+    <z:Attachment rdf:about="#item_118">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/313/retrieval-augmented-generation-rag.html"/>
+        <rdf:resource rdf:resource="files/118/retrieval-augmented-generation-rag.html"/>
         <dc:title>Snapshot</dc:title>
         <dc:identifier>
             <dcterms:URI>
@@ -1990,32 +1874,454 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
-    <z:Collection rdf:about="#collection_23">
-        <dc:title>Agent</dc:title>
-        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2407.12821"/>
+    <rdf:Description rdf:about="https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2018/polizei-2020-white-paper.pdf?__blob=publicationFile&amp;v=8">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bundesministerium des Innern</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_217"/>
+        <dc:title>Polizei 2020 - White Paper -</dc:title>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2018/polizei-2020-white-paper.pdf?__blob=publicationFile&amp;v=8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08</dcterms:dateSubmitted>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_217">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/217/Bundesministerium des Innern - Polizei 2020 - White Paper -.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Manuscript rdf:about="#item_149">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kiel - Friedrichsort</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flöthe</foaf:surname>
+                        <foaf:givenName>Linda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kasten</foaf:surname>
+                        <foaf:givenName>Hendrik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wöhst</foaf:surname>
+                        <foaf:givenName>Timo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_150"/>
+        <link:link rdf:resource="#item_201"/>
+        <dc:title>Einführung in die @rtus Entwicklung. Entwicklungsmethodik + Organisation [Intern]</dc:title>
+        <dc:date>2024-09-16</dc:date>
+    </bib:Manuscript>
+    <bib:Memo rdf:about="#item_150">
+        <rdf:value>&lt;p&gt;Abteilungsrunde am 16.09.2024 \textbar DS0 Software-Entwicklung Innere Sicherheit&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_201">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/201/Flöthe - @rtus Einführung - Abteilungsrunde [Intern].pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_151">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Dataport AöR</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rüth</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_199"/>
+        <dc:title>Architekturdokumentation @rtus / Artus Diagram Report [Intern]</dc:title>
+        <dc:date>2024-08-16</dc:date>
+        <dcterms:dateSubmitted>2025-04-02</dcterms:dateSubmitted>
+        <dc:description>Intern</dc:description>
+        <bib:pages>129</bib:pages>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_199">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/199/Rüth - 2024 - Architekturdokumentation @rtus  Artus Diagram Report.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://dataportal.dataport.de/node/6920">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Dataport</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_197"/>
+        <dc:title>Dataport goes Polizei2020 [Intern]</dc:title>
+        <dc:date>2022-05-11</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dataportal.dataport.de/node/6920</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Intern</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_197">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/197/Dataport - 2022 - Dataport goes Polizei2020.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.dataport.de/services-produkte/it-produkte/dataportai/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Dataport</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_203"/>
+        <dc:title>data[port]ai</dc:title>
+        <dcterms:abstract>data[port]ai ist die offene Plattform von Dataport für Datennutzung und künstliche Intelligenz. data[port]ai schafft ein kollaboratives Ökosystem, das die Innovationskraft unterschiedlicher Akteure bündelt und neue Lösungen für die Verwaltung anstrebt.</dcterms:abstract>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.dataport.de/services-produkte/it-produkte/dataportai/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-07 12:12:34</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_203">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/203/dataportai.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.dataport.de/services-produkte/it-produkte/dataportai/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-07 12:12:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://dataportal.dataport.de/node/4476">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Dataport</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Softwareentwicklung Innere Sicherheit</dc:title>
+        <dc:date>2022-04-14</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dataportal.dataport.de/node/4476</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Report rdf:about="#item_209">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kiel - Friedrichsort</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Dataport AöR</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brozy</foaf:surname>
+                        <foaf:givenName>Jannik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Jonas Neumann</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reineke</foaf:surname>
+                        <foaf:givenName>Sebastian Elisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tinter</foaf:surname>
+                        <foaf:givenName>René Marcel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zepner</foaf:surname>
+                        <foaf:givenName>Noah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_210"/>
+        <dc:title>Ein LLM für @rtus [Intern]</dc:title>
+        <dc:date>2025-07-04</dc:date>
+        <z:language>de</z:language>
+        <bib:pages>90</bib:pages>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_210">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/210/Brozy et al. - Ein LLM  für @rtus [Intern].pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.bmi.bund.de/DE/themen/sicherheit/programm-p20/programm-p20-artikel.html?nn=10391826">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Bundesministerium des Innern</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_212"/>
+        <dc:title>Programm P20</dc:title>
+        <dcterms:abstract>Mit dem Programm P20 wird die polizeiliche IT-Architektur harmonisiert und modernisiert. Die deutsche Polizeiarbeit wird sich dadurch grundlegend ändern.</dcterms:abstract>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bmi.bund.de/DE/themen/sicherheit/programm-p20/programm-p20-artikel.html?nn=10391826</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:13:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_212">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/212/programm-p20-artikel.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bmi.bund.de/DE/themen/sicherheit/programm-p20/programm-p20-artikel.html?nn=10391826</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:13:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI23004.pdf?__blob=publicationFile&amp;v=7">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bundesministerium des Innern</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_213"/>
+        <dc:title>P20 - Auf dem Weg zu einer gemeinsamen, digitalen und vernetzten Polizei</dc:title>
+        <dcterms:abstract>P20 - Ein Programm für die Polizei der Zukunft</dcterms:abstract>
+        <dc:date>2023-06-05</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Polizei 2020 - P20 Programmbroschüre</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI23004.pdf?__blob=publicationFile&amp;v=7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:15:48</dcterms:dateSubmitted>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_213">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/213/BMI23004.pdf"/>
+        <dc:title>BMI23004.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI23004.pdf?__blob=publicationFile&amp;v=7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:14:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.dataport.de/services-produkte/it-produkte/produkt/artus-mobile/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Dataport</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_219"/>
+        <dc:title>Produkt</dc:title>
+        <z:language>de</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.dataport.de/services-produkte/it-produkte/produkt/artus-mobile/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:24:48</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_219">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/219/artus-mobile.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.dataport.de/services-produkte/it-produkte/produkt/artus-mobile/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:24:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_220">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Senatskanzlei Hamburg</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_223"/>
+        <dc:title>Details zu LLMoin - Ergänzende Informationen zu LLMoin für Interessierte aus Verwaltung, Medien und Zivilgesellschaft</dc:title>
+        <dc:date>2024-11-25</dc:date>
+        <z:language>de</z:language>
+        <z:shortTitle>Details zu LLMoin</z:shortTitle>
+        <bib:pages>7</bib:pages>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_223">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/223/Senatskanzlei Hamburg - 2024 - Details zu LLMoin - Ergänzende Informationen zu LLMoin für Interessierte aus Verwaltung, Medien und.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Legislation rdf:about="https://www.landesrecht-hamburg.de/bsha/document/jlr-DataportSHStVtrGHArahmen">
+        <z:itemType>statute</z:itemType>
+        <link:link rdf:resource="#item_221"/>
+        <z:language>de</z:language>
+        <z:shortTitle>DataportSHStVtrG HA</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.landesrecht-hamburg.de/bsha/document/jlr-DataportSHStVtrGHArahmen</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08</dcterms:dateSubmitted>
+        <bib:pages>19</bib:pages>
+        <dc:title>Gesetz zu dem Staatsvertrag zwischen dem Land Schleswig-Holstein und der Freien und Hansestadt Hamburg über die Errichtung von „Dataport“ als rechtsfähige Anstalt des öffentlichen Rechts Vom 30. Dezember 2003</dc:title>
+        <dc:date>2020-07-24</dc:date>
+    </bib:Legislation>
+    <z:Attachment rdf:about="#item_221">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/221/DataportSHStVtrG_HA.pdf"/>
+        <dc:title>DataportSHStVtrG_HA.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.landesrecht-hamburg.de/jportal/recherche3doc/DataportSHStVtrG_HA.pdf?json=%7B%22format%22%3A%22pdf%22%2C%22params%22%3A%7B%22fixedPart%22%3A%22true%22%7D%2C%22docPart%22%3A%22X%22%2C%22docId%22%3A%22jlr-DataportSHStVtrGHArahmen%22%2C%22portalId%22%3A%22bsha%22%7D&amp;_=%2FDataportSHStVtrG_HA.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-10-08 12:32:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_24">
+        <dc:title>@rtus</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2018/polizei-2020-white-paper.pdf?__blob=publicationFile&amp;v=8"/>
+        <dcterms:hasPart rdf:resource="#item_149"/>
+        <dcterms:hasPart rdf:resource="#item_151"/>
+        <dcterms:hasPart rdf:resource="#item_209"/>
+        <dcterms:hasPart rdf:resource="https://www.bmi.bund.de/DE/themen/sicherheit/programm-p20/programm-p20-artikel.html?nn=10391826"/>
+        <dcterms:hasPart rdf:resource="https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/sicherheit/BMI23004.pdf?__blob=publicationFile&amp;v=7"/>
+        <dcterms:hasPart rdf:resource="https://www.dataport.de/services-produkte/it-produkte/produkt/artus-mobile/"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_15">
+    <z:Collection rdf:about="#collection_23">
+        <dc:title>Dataport</dc:title>
+        <dcterms:hasPart rdf:resource="https://dataportal.dataport.de/node/6920"/>
+        <dcterms:hasPart rdf:resource="https://www.dataport.de/services-produkte/it-produkte/dataportai/"/>
+        <dcterms:hasPart rdf:resource="https://dataportal.dataport.de/node/4476"/>
+        <dcterms:hasPart rdf:resource="#item_220"/>
+        <dcterms:hasPart rdf:resource="https://www.landesrecht-hamburg.de/bsha/document/jlr-DataportSHStVtrGHArahmen"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_13">
         <dc:title>Domaine</dc:title>
-        <dcterms:hasPart rdf:resource="#collection_17"/>
+        <dcterms:hasPart rdf:resource="#collection_21"/>
         <dcterms:hasPart rdf:resource="https://www.mdpi.com/2076-3417/14/17/7819"/>
         <dcterms:hasPart rdf:resource="https://www.techscience.com/cmc/v83n2/60528"/>
         <dcterms:hasPart rdf:resource="https://francis-press.com/papers/14562"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_17">
+    <z:Collection rdf:about="#collection_21">
         <dc:title>ohne llm</dc:title>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4244-1977-7"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-60558-099-9"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_21">
+    <z:Collection rdf:about="#collection_14">
         <dc:title>few-shot</dc:title>
         <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2306.00024"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_18">
+    <z:Collection rdf:about="#collection_15">
         <dc:title>Integration</dc:title>
         <dcterms:hasPart rdf:resource="https://opus.campus02.at/1155"/>
         <dcterms:hasPart rdf:resource="https://link.springer.com/10.1007/s44336-024-00009-2"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_24">
+    <z:Collection rdf:about="#collection_16">
         <dc:title>LLMs</dc:title>
         <dcterms:hasPart rdf:resource="https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"/>
         <dcterms:hasPart rdf:resource="https://www.ibm.com/de-de/think/topics/large-language-models"/>
@@ -2024,26 +2330,26 @@ Open source code available at https://github.com/agiresearch/AutoFlow</rdf:value
         <dcterms:hasPart rdf:resource="https://huggingface.co/blog/mlabonne/decoding-strategies"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3744746"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_16">
+    <z:Collection rdf:about="#collection_17">
         <dc:title>Methodik</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2410.17619"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2308.03107"/>
         <dcterms:hasPart rdf:resource="http://medrxiv.org/lookup/doi/10.1101/2024.09.02.24312917"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_22">
+    <z:Collection rdf:about="#collection_18">
         <dc:title>RAG</dc:title>
         <dcterms:hasPart rdf:resource="https://aclanthology.org/2024.naacl-industry.19/"/>
         <dcterms:hasPart rdf:resource="https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf"/>
         <dcterms:hasPart rdf:resource="https://research.ibm.com/blog/retrieval-augmented-generation-RAG"/>
         <dcterms:hasPart rdf:resource="https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_20">
+    <z:Collection rdf:about="#collection_19">
         <dc:title>Structured Output</dc:title>
         <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0306457324001687"/>
         <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2408.11061"/>
         <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2505.04016"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_19">
+    <z:Collection rdf:about="#collection_20">
         <dc:title>Why LLM vor IE</dc:title>
         <dcterms:hasPart rdf:resource="https://aclanthology.org/2024.findings-emnlp.560"/>
     </z:Collection>
